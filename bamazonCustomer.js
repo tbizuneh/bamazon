@@ -12,7 +12,7 @@ var connection = mysql.createConnection({
     // sets username
     user: "root",
     // sets password
-    password: "codingbootcamp#1",
+    password: "",
     // sets current database
     database: "bamazon_db"
 });
